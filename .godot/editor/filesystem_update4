@@ -1,0 +1,35 @@
+res://audio/default_bus_layout.tres
+res://cameras/area_cam/area_cam.tscn
+res://cameras/follow_cam/follow_cam.tscn
+res://demo_level/stagingCSG.tscn
+res://demo_level/torch.tscn
+res://demo_level/world_castle.tscn
+res://enemy/enemy_area_target_sensor.tscn
+res://enemy/enemy_base_root_motion.tscn
+res://interactable objects/chest/chest.tscn
+res://interactable objects/doors/door_object.tscn
+res://interactable objects/doors/gate_object.tscn
+res://interactable objects/ladder/ladder.tscn
+res://interactable objects/lever/lever_object.tscn
+res://interactable objects/spawn_site/spawn_site.tscn
+res://player/equipment_system/equipment/Ax.tscn
+res://player/equipment_system/equipment/shield.tscn
+res://player/equipment_system/equipment/sword.tscn
+res://player/equipment_system/equipment/torch_gadget.tscn
+res://player/equipment_system/equipment_system.tscn
+res://player/footfall_system/footfall_system.tscn
+res://player/footfall_system/footstep_sound_system.tscn
+res://player/item_system/items/firebomb.tres
+res://player/item_system/items/fire_bomb.tscn
+res://player/item_system/items/potion.tres
+res://player/item_system/items/potion.tscn
+res://player/player_interact_sensors/sensor_cast.tscn
+res://player/player_targeting_system/player_targeting_system.tscn
+res://player/player_charbody3d.tscn
+res://assets/metal_blue.tres
+res://assets/characters/eyes.tres
+res://assets/metal_black.tres
+res://demo_level/gridmap/gridmap_basic.tres
+res://demo_level/test_scene_1.tscn
+res://demo_level/gridmap/dungeonMeshlib1.tres
+res://demo_level/gridmap/Walls_stairsMeshlib.tres
